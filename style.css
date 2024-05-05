@@ -1,0 +1,30 @@
+#footer{
+    bottom:0;
+    text-align: center;
+}
+
+#camera{
+    width:500px;
+    height:400px;
+    border:solid 2px;
+}
+
+.column{
+    height:50px;
+    width:50px;
+}
+
+#resultRow{
+    float:bottom;
+    margin:5 px;
+    clear:bottom;
+    padding:50px;
+}
+.column{
+    width:30%
+}
+
+
+body{
+    background:rgb(182, 101, 47);
+}
